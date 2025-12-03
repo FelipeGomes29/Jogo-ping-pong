@@ -19,11 +19,9 @@ Projeto criado para praticar lógica de jogos 2D, animações e interação com 
 
 🛠️ Tecnologias utilizadas
 
-HTML5 Canvas
-
-JavaScript (ES6)
-
-CSS básico (opcional)
+HTML5 
+JavaScript 
+CSS básico
 
 📂 Estrutura do projeto
 /pong-game
